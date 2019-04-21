@@ -1,4 +1,4 @@
-# Hexgame
+# Hex game
 This is a C++ hex game built with QT for Windows. Place the "release" folder on your PC and double click HexGame.exe to play.
 
 AI uses Monte Carlo simulation to play hex game. 1000 trials are performed at each step.
